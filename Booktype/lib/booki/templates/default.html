@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link href='/site_static/css/fullcalendar/fullcalendar.css' rel='stylesheet' /type='text/css'>
+
+<link href='/site_static/css/fullcalendar/fullcalendar.print.css' rel='stylesheet' media='print' type='text/css' />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+<script src='/site_static/js/fullcalendar/lib/jquery.min.js'></script>
+
+<script src='/site_static/js/fullcalendar/lib/jquery-ui.custom.min.js'></script>
+
+<script src='/site_static/js/fullcalendar/fullcalendar.js'></script>
+
+<script>
+
+if(typeof jQuery!=='undefined'){
+    console.log('jQuery Loaded');
+}
+else{
+    console.log('not loaded yet');
+}
+
+
+$(document).ready(function() {
+	
+		var date = new Date();
+		var d = date.getDate();
+		var m = date.getMonth();
+		var y = date.getFullYear();
+		
+		$('#calendar').fullCalendar({
+			editable: true,
+			events: [
+				{
+					title: 'Transcripts',
+					start: new Date(y, m, 1),
+                                        end: new Date(y, m, 1),
+					url: 'http://localhost:8080/accounts/todays_transcript/'
+
+				},
+
+				{
+					title: 'Explains',
+                                        start: new Date(y, m, 8),
+                                        end: new Date(y, m, 8),				
+				},
+				{
+					title: 'Explains',
+                                        start: new Date(y, m, 8),
+                                        end: new Date(y, m, 8),				
+				},
+				{
+					title: 'Questions',
+					start: new Date(y, m, 10),
+                                        end: new Date(y, m, 10),
+				},
+				{
+					title: 'Interact',
+					start: new Date(y, m, 18),
+                                        end: new Date(y, m, 18),
+				},
+				{
+					title: 'Summary',
+                                        start: new Date(y, m, 22),
+                                        end: new Date(y, m, 22),				
+				},
+				{
+					title: 'Slide',
+					start: new Date(y, m, 26),
+                                        end: new Date(y, m, 26),				
+				},
+				{
+					title: 'Click for Google',
+					start: new Date(y, m, 28),
+					end: new Date(y, m, 29),
+					url: 'http://google.com/'
+				}
+			]
+		});
+		
+	});
+
+</script>
+<style>
+
+	body {
+		margin-top: 40px;
+		text-align: center;
+		font-size: 14px;
+		font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+		}
+
+	#calendar {
+		width: 900px;
+		margin: 0 auto;
+		}
+
+</style>
+</head>
+<body>
+<div id='calendar'></div>
+</body>
+</html>

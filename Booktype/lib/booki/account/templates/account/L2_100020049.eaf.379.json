@@ -1,0 +1,3182 @@
+{
+    "1010320": {
+        "transcript": [
+            "1012220", 
+            "to build. so three is not correct."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1012757": {
+        "slide": [
+            "1013757", 
+            "x"
+        ]
+    }, 
+    "1014220": {
+        "transcript": [
+            "1018420", 
+            "so the answer is the fourth one."
+        ], 
+        "answer": "4th"
+    }, 
+    "1019660": {
+        "transcript": [
+            "1031920", 
+            "The moment disturbance comes, if this control strategy is to be implemented properly, the moment disturbance comes, it is picked up immediately, and corrective action done immediately."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1034280": {
+        "transcript": [
+            "1040560", 
+            "Ok, so what Akanksha is saying is that..."
+        ], 
+        "interaction": "Student Question"
+    }, 
+    "1041600": {
+        "transcript": [
+            "1044860", 
+            "this is also not correct because it will take some time."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1046800": {
+        "transcript": [
+            "1050620", 
+            "So, what you have to do is, what is the closest to the answer?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1053100": {
+        "transcript": [
+            "1073800", 
+            "What is the closet to the answer? compared to the other problems, other things, for example, \"only one disturbance variable needs to be measured\" , come on, it is absolutely wrong, right? \"need only one model\" , not correct. \"required model is easy to build\", not correct. this one, we can say that, ok, may it will take ten seconds, fine, but this is the closest."
+        ], 
+        "question": "FocusingInformation", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "106640": {
+        "transcript": [
+            "108120", 
+            "Ok, x1 is the disturbance"
+        ], 
+        "define": "x1"
+    }, 
+    "1074880": {
+        "transcript": [
+            "1075360", 
+            "Is that ok?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1077580": {
+        "transcript": [
+            "1084300", 
+            "yeah, so you are saying, how to improve it further. thats fine.  so we will discuss all of that. we will go to the next one."
+        ], 
+        "interaction": "Student Question", 
+        "summary": "Preview"
+    }, 
+    "1087340": {
+        "transcript": [
+            "1096480", 
+            "so that is good because you make fast correction, immediately. ok, not immediately, 10 seconds later. ok. fine."
+        ], 
+        "question": "FocusingInformation", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1098300": {
+        "transcript": [
+            "1099540", 
+            "It is bad because"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "110140": {
+        "transcript": [
+            "112580", 
+            "and we want the output  composition to be constant"
+        ], 
+        "define": "x1"
+    }, 
+    "1102880": {
+        "transcript": [
+            "1111060", 
+            "So, I should have actually changed the thing, A, B, C, D, I should have given above, so, how would you say A, B, C. Ok, you can still do 1, 2, 3. doesn't matter."
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1112820": {
+        "transcript": [
+            "1114540", 
+            "Ok, have you selected."
+        ], 
+        "interaction": "Other"
+    }, 
+    "1117060": {
+        "transcript": [
+            "1120820", 
+            "Have you selected? some of you have not selected. what happens? you don't know."
+        ], 
+        "interaction": "Other"
+    }, 
+    "1117689": {
+        "slide": [
+            "1118689", 
+            "17:Feed forward:bad"
+        ]
+    }, 
+    "1122540": {
+        "transcript": [
+            "1123540", 
+            "you are following? thinking?"
+        ], 
+        "interaction": "Other"
+    }, 
+    "1125440": {
+        "transcript": [
+            "1126880", 
+            "How may people are undecided?"
+        ], 
+        "interaction": "Other"
+    }, 
+    "1128180": {
+        "transcript": [
+            "1129920", 
+            "How may people are undecided? Raise your hand."
+        ], 
+        "interaction": "Other"
+    }, 
+    "1132660": {
+        "transcript": [
+            "1133700", 
+            "Ok, two. What happens?"
+        ], 
+        "interaction": "Student Answer"
+    }, 
+    "1135100": {
+        "transcript": [
+            "1140860", 
+            "two. many people have got two. so two and three."
+        ], 
+        "interaction": "Other"
+    }, 
+    "1142560": {
+        "transcript": [
+            "1142900", 
+            null
+        ]
+    }, 
+    "114360": {
+        "transcript": [
+            "114880", 
+            "Is that ok?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1144600": {
+        "transcript": [
+            "1146680", 
+            "yeah, B. B is 2 and 3, these two."
+        ], 
+        "answer": "2 and 3"
+    }, 
+    "1148320": {
+        "transcript": [
+            "1149480", 
+            "B stands for,"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1150560": {
+        "transcript": [
+            "1167300", 
+            "are you selecting this B? ok. So 2 and 3. that is, \"Effects of other variables not considered\", \"Exact model is required for every variable\""
+        ], 
+        "question": "FocusingInformation", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1169220": {
+        "transcript": [
+            "1171440", 
+            null
+        ]
+    }, 
+    "1172800": {
+        "transcript": [
+            "1184340", 
+            "Ok, anybody have selected this? anything else?since you have only 2 and 3, so actually, there is another thing here namely one, \"controlled variable is not measured\""
+        ], 
+        "interaction": "Other", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "118420": {
+        "transcript": [
+            "128960", 
+            "So how do we achieve this, we achieve this through second  stream which comes through control valve, I refer to this as the control stream"
+        ], 
+        "question": "FocusingInformation", 
+        "answer": "x1 compostion", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1185840": {
+        "transcript": [
+            "1188200", 
+            "ok, remember, in Feed Forward control"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1191640": {
+        "transcript": [
+            "1193520", 
+            "In Feed Forward control, we never measure this x."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1195540": {
+        "transcript": [
+            "1201500", 
+            "we assume that we measure it. of course, we can measure x also,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1202520": {
+        "transcript": [
+            "1212140", 
+            "but it is not Feed Forward control"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1214480": {
+        "transcript": [
+            "1219380", 
+            "So, where do you want to put AT? to this, is it? you want to measure this."
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1220400": {
+        "transcript": [
+            "1222360", 
+            null
+        ]
+    }, 
+    "1223820": {
+        "transcript": [
+            "1223880", 
+            null
+        ]
+    }, 
+    "1225100": {
+        "transcript": [
+            "1242620", 
+            "We will come to that shortly. so Savi says that measure s, and then do that, we are going to discuss that, shortly. that is not called Feed Forward control. In Feed Forward Control, you don't measure the control variables. Is that ok? C which is 1, 2, and 3"
+        ], 
+        "interaction": "Student Question"
+    }, 
+    "1241309": {
+        "slide": [
+            "1243214", 
+            "17:Feed forward:bad"
+        ]
+    }, 
+    "1244440": {
+        "slide": [
+            "1247238", 
+            "18:Assignment for discussion"
+        ]
+    }, 
+    "1244600": {
+        "transcript": [
+            "1248920", 
+            "So, I have assignment for discussion, which you should put in your forum."
+        ], 
+        "interaction": "Other"
+    }, 
+    "1250040": {
+        "transcript": [
+            "1252940", 
+            "Apply the Feed Forward strategy to the room temperature control problem."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1254040": {
+        "transcript": [
+            "1255160", 
+            "We are not going to discuss it here."
+        ], 
+        "interaction": "Other"
+    }, 
+    "1256400": {
+        "transcript": [
+            "1261120", 
+            "If the room temperature controller has to be done, using Feed Forward control, how will you implement?"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1262480": {
+        "transcript": [
+            "1264760", 
+            "I want you to discuss that. in the forum."
+        ], 
+        "interaction": "Other"
+    }, 
+    "1266523": {
+        "slide": [
+            "1268773", 
+            "19:Feedback Control"
+        ]
+    }, 
+    "1267960": {
+        "transcript": [
+            "1272760", 
+            "We will take up the next section, which is Feed Back control."
+        ], 
+        "summary": "Preview"
+    }, 
+    "1274500": {
+        "transcript": [
+            "1280940", 
+            "Ok, that motivates infact feed forward control motivates us  to take Feed Back control."
+        ], 
+        "introduce": "Motivation"
+    }, 
+    "1281296": {
+        "slide": [
+            "1283440", 
+            "20:How do we Overcome the Shortcomings?- General"
+        ]
+    }, 
+    "1283260": {
+        "transcript": [
+            "1285120", 
+            "So, how do we overcome the shortcomings,"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1286400": {
+        "transcript": [
+            "1288100", 
+            "that were present in Feed Forward control."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1289760": {
+        "transcript": [
+            "1293560", 
+            "one is measure the control variables directly. whats your name?"
+        ], 
+        "interaction": "Other", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1294920": {
+        "transcript": [
+            "1298780", 
+            "Alok. so measure the control variable directly."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1299290": {
+        "slide": [
+            "1301314", 
+            "20:How do we Overcome the Shortcomings?- General"
+        ]
+    }, 
+    "1299960": {
+        "transcript": [
+            "1302700", 
+            "and compensate for any deviation."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "130200": {
+        "transcript": [
+            "132560", 
+            "It  has a valve, its Flow Rate can be changed"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1306520": {
+        "transcript": [
+            "1306780", 
+            "ok."
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1308240": {
+        "transcript": [
+            "1310300", 
+            "so measure x directly,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1312240": {
+        "transcript": [
+            "1315940", 
+            "and make compensations. so what is meant by that?"
+        ], 
+        "question": "FocusingInformation", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1317331": {
+        "slide": [
+            "1321034", 
+            "21:Can we Visualise this Control Strategy?"
+        ]
+    }, 
+    "1318360": {
+        "transcript": [
+            "1320360", 
+            "what is meant by this?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1323140": {
+        "transcript": [
+            "1327280", 
+            "Savi you have already mentioned. sorry not you, you only mentioned."
+        ], 
+        "interaction": "Other"
+    }, 
+    "1323200": {
+        "slide": [
+            "1324295", 
+            "x"
+        ]
+    }, 
+    "1328360": {
+        "transcript": [
+            "1333520", 
+            "Savi mentioned. you wanted to, of course, you thought the results getting mentioned."
+        ], 
+        "interaction": "Other"
+    }, 
+    "1336120": {
+        "transcript": [
+            "1340280", 
+            "So, you have to put something here. and connect this with control valve"
+        ], 
+        "interaction": "Student Question"
+    }, 
+    "133647": {
+        "slide": [
+            "135969", 
+            "5:Variables in Mixing Process"
+        ]
+    }, 
+    "1342460": {
+        "transcript": [
+            "1348220", 
+            "Analyzer Transmitter and then put this into Analyzer Control, and then get this"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "134300": {
+        "transcript": [
+            "137980", 
+            "Lets answer this question, Feed composition x1 is a?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1345596": {
+        "slide": [
+            "1346596", 
+            "22:Direct Regulation of Controlled Variable"
+        ]
+    }, 
+    "1350220": {
+        "transcript": [
+            "1350680", 
+            "Is that ok?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1350727": {
+        "slide": [
+            "1351727", 
+            "x"
+        ]
+    }, 
+    "1356180": {
+        "transcript": [
+            "1358340", 
+            "So, the way to implement. So how would you do that?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1360940": {
+        "transcript": [
+            "1365940", 
+            "supposing this x is higher than required. what will you do?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1371980": {
+        "transcript": [
+            "1374220", 
+            "no, should you increase or decrease the flow rate."
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1376600": {
+        "transcript": [
+            "1380100", 
+            "if x is higher than required, decrease the flow rate."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1381320": {
+        "transcript": [
+            "1381460", 
+            null
+        ]
+    }, 
+    "1383180": {
+        "transcript": [
+            "1384040", 
+            null
+        ]
+    }, 
+    "1385100": {
+        "transcript": [
+            "1389140", 
+            "w2 old is nominal operating value."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1387091": {
+        "slide": [
+            "1388091", 
+            "22:Direct Regulation of Controlled Variable"
+        ]
+    }, 
+    "1390640": {
+        "transcript": [
+            "1392740", 
+            "that is the control valve which is kept somewhere."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1394820": {
+        "transcript": [
+            "1396120", 
+            "x is the desired value."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1398000": {
+        "transcript": [
+            "1399660", 
+            "Now x(t) is higher than required."
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "140140": {
+        "transcript": [
+            "143120", 
+            "We have answered this already,  its given in the"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1401500": {
+        "transcript": [
+            "1401780", 
+            "right?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1403460": {
+        "transcript": [
+            "1405900", 
+            "So this will become a negative value"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1406980": {
+        "transcript": [
+            "1408160", 
+            "what should be the sign of k?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1410580": {
+        "transcript": [
+            "1411600", 
+            "what should be the sign of k?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1413940": {
+        "transcript": [
+            "1422580", 
+            "If k is positive, then this whole thing will be negative, and w2 will be reduced. w2,old is the nominal operating value."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1423840": {
+        "transcript": [
+            "1425940", 
+            " It is going to be lower than the previous value."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1428500": {
+        "transcript": [
+            "1436140", 
+            "So, it is important when you implement the control strategy, first check the sign of the,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1437260": {
+        "transcript": [
+            "1448180", 
+            "this k for example. In fact this k is going to be something that you will design as a part of your control system design strategy."
+        ], 
+        "interaction": "Other"
+    }, 
+    "1438290": {
+        "slide": [
+            "1439290", 
+            "22:Direct Regulation of Controlled Variable"
+        ]
+    }, 
+    "144460": {
+        "transcript": [
+            "147220", 
+            "Disturbance ok, so Disturbance Variable"
+        ], 
+        "answer": "x1 composition"
+    }, 
+    "1447424": {
+        "slide": [
+            "1448424", 
+            "x"
+        ]
+    }, 
+    "1449500": {
+        "transcript": [
+            "1451760", 
+            "k is something, you know it is possible."
+        ], 
+        "interaction": "Other"
+    }, 
+    "1453720": {
+        "transcript": [
+            "1454800", 
+            "k is to be decided."
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1456740": {
+        "transcript": [
+            "1462560", 
+            "of course, I am asking this question, Is K positive or negative? K has to be positive. Is that ok?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1461570": {
+        "slide": [
+            "1462570", 
+            "22:Direct Regulation of Controlled Variable"
+        ]
+    }, 
+    "1463720": {
+        "transcript": [
+            "1468120", 
+            "so here you measure x and do this, notice that you are not measuring it."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1470540": {
+        "transcript": [
+            "1471160", 
+            "this x here,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1472660": {
+        "transcript": [
+            "1478420", 
+            "is that ok? you are not measuring it here. so you can say measure that also, but that we do in Feed Forward control."
+        ], 
+        "question": "FocusingInformation", 
+        "interaction": "Other"
+    }, 
+    "1480160": {
+        "transcript": [
+            "1482760", 
+            "Is that ok. So this is the Feed Back control strategy"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1487620": {
+        "transcript": [
+            "1488840", 
+            "What are the salient features?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "148787": {
+        "slide": [
+            "150211", 
+            "6:Variables in Mixing Process"
+        ]
+    }, 
+    "1491040": {
+        "transcript": [
+            "1502180", 
+            "unliKe the Feed Forward control, where the moment the disturbance comes, it is corrected immediately, with 10 seconds delay, for example. whereas here. "
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1503260": {
+        "transcript": [
+            "1504100", 
+            "whereas here,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1506080": {
+        "transcript": [
+            "1511780", 
+            "is actually has changed the concentration, of one term reactor."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1507103": {
+        "slide": [
+            "1508103", 
+            "x"
+        ]
+    }, 
+    "1513440": {
+        "transcript": [
+            "1516360", 
+            "All the composition has changed. then you realize."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1517480": {
+        "transcript": [
+            "1518980", 
+            "So in that sense, it is lot slower."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1520020": {
+        "transcript": [
+            "1528900", 
+            "So we don't have to worry about the 10 second delay of the value. Half a minute of the value. This could be several minutes."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "152760": {
+        "transcript": [
+            "155580", 
+            "The next one, Outlet Composition  x is"
+        ], 
+        "question": "FocusingInformation", 
+        "interaction": "Student Question"
+    }, 
+    "1529273": {
+        "slide": [
+            "1532738", 
+            "23:Salient features of feedback control -General"
+        ]
+    }, 
+    "1530340": {
+        "transcript": [
+            "1533140", 
+            "The disturbance affects the system before corrective action "
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1534273": {
+        "slide": [
+            "1536487", 
+            "x"
+        ]
+    }, 
+    "1535840": {
+        "transcript": [
+            "1544380", 
+            "and the Feedback control requires measurement of the controlled variable, that is the output variable."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1544296": {
+        "slide": [
+            "1544939", 
+            "x"
+        ]
+    }, 
+    "1545500": {
+        "transcript": [
+            "1546560", 
+            "you measure x here"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1547880": {
+        "transcript": [
+            "1549660", 
+            "that is the Feed Forward control did not require."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1551309": {
+        "slide": [
+            "1552166", 
+            "23:Salient features of feedback control -General"
+        ]
+    }, 
+    "1551940": {
+        "transcript": [
+            "1555240", 
+            "and this is useful when exact knowledge is not available."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1557640": {
+        "transcript": [
+            "1562700", 
+            "Why  is it not required? suppose there is a leakage."
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1564420": {
+        "transcript": [
+            "1567200", 
+            "Suppose w1 has also changed."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "156760": {
+        "transcript": [
+            "159780", 
+            "ok is the Control Variable I seem to have given the answer"
+        ], 
+        "answer": "x", 
+        "interaction": "Student Answer"
+    }, 
+    "1568720": {
+        "transcript": [
+            "1570100", 
+            "so that would be reflected in x,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1571200": {
+        "transcript": [
+            "1571960", 
+            "so you would have caught that."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1573280": {
+        "transcript": [
+            "1575340", 
+            "of course, there is a drawback,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1576620": {
+        "transcript": [
+            "1577220", 
+            "What is that?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1580160": {
+        "transcript": [
+            "1581680", 
+            "What is that? what is the drawback here?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1583240": {
+        "transcript": [
+            "1588840", 
+            "We will see that. But inspite of the drawback, it is a popular control strategy."
+        ], 
+        "summary": "Preview", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1584916": {
+        "slide": [
+            "1586023", 
+            "23:Salient features of feedback control -General"
+        ]
+    }, 
+    "1590035": {
+        "slide": [
+            "1592808", 
+            "24:Salient features Applied to Mixing"
+        ]
+    }, 
+    "1593200": {
+        "transcript": [
+            "1599720", 
+            "Ok, salient features again. Disturbance affects the system before corrective action. there are the two things."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1597047": {
+        "slide": [
+            "1598714", 
+            "23:Salient features of feedback control -General"
+        ]
+    }, 
+    "1600059": {
+        "slide": [
+            "1600630", 
+            "23:Salient features of feedback control -General"
+        ]
+    }, 
+    "1601000": {
+        "transcript": [
+            "1601080", 
+            null
+        ]
+    }, 
+    "1601106": {
+        "slide": [
+            "1602797", 
+            "25:Assignment for discussion"
+        ]
+    }, 
+    "1602600": {
+        "transcript": [
+            "1604940", 
+            "Ok, what I want you do is..."
+        ], 
+        "interaction": "Other"
+    }, 
+    "1606200": {
+        "transcript": [
+            "1609860", 
+            "I would want you to apply the Feedback Control strategy to the room temperature control problem."
+        ], 
+        "question": "FocusingInformation", 
+        "interaction": "Other"
+    }, 
+    "160860": {
+        "transcript": [
+            "165000", 
+            "The slide looks the same so."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1610940": {
+        "transcript": [
+            "1618500", 
+            "ok, there are going to be some drawbacks of Feedback Control strategy also, one of them we have seen"
+        ], 
+        "summary": "Preview", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1619560": {
+        "transcript": [
+            "1636500", 
+            "namely, it is slower compared to Feed Forward. In Feed Forward, the moment disturbance comes, it is picked up and corrected. Here it has to go and change things, and then we realize, so this is one drawback, there are some other drawbacks also"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1637660": {
+        "transcript": [
+            "1641100", 
+            "which we will one of them is, if you are not careful,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1642180": {
+        "transcript": [
+            "1656620", 
+            "You can destabilize the system, thats one of the problem that we will discuss. as we go along. In fact, Feedback Control is effective, because it can take care of"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1657860": {
+        "transcript": [
+            "1665420", 
+            "The modelling issues. because you don't have any models. The only model you have here, for example, is this equation"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "166020": {
+        "transcript": [
+            "170200", 
+            "Ok, is there any question on this, Outlet Composition x is a?"
+        ], 
+        "question": "FocusingInformation", 
+        "interaction": "Student Question"
+    }, 
+    "1667140": {
+        "transcript": [
+            "1687600", 
+            "once you set the sign, then it should work. every time you monitor, is it higher lower, I make the corrections. so it is lot simpler to this compared to the detailed modeling required in the Feed Forward control. You need detailed modeling for every variable as well. you also need to know every phenomenon."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1688720": {
+        "transcript": [
+            "1689780", 
+            "all that is not required here."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1691200": {
+        "transcript": [
+            "1693440", 
+            "in that sense, it is lot easier to build."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1694820": {
+        "transcript": [
+            "1695100", 
+            "right?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1696780": {
+        "transcript": [
+            "1704060", 
+            "but there are drawback. It is slow, you can destabilize the system. there are issues like that. which we will discuss in this course."
+        ], 
+        "question": "FocusingInformation", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1705140": {
+        "transcript": [
+            "1709980", 
+            "in fact, most of this course, we will be discussing Feedback Control strategy."
+        ], 
+        "summary": "Preview"
+    }, 
+    "1711040": {
+        "transcript": [
+            "1720360", 
+            "For example, how to come up with this K? Or if this K is not good enough, should we modify it with something else?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "171640": {
+        "transcript": [
+            "183580", 
+            "is the control variable right that is the objective of this putting a valve here"
+        ], 
+        "interaction": "Student Answer", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1721840": {
+        "transcript": [
+            "1729240", 
+            "So, we will be discussing various control strategies, in this course, using feedback control structure"
+        ], 
+        "summary": "Preview"
+    }, 
+    "1730980": {
+        "transcript": [
+            "1731580", 
+            "Is that ok?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1733200": {
+        "transcript": [
+            "1734400", 
+            "thats what we are going to do in this course."
+        ], 
+        "summary": "Preview"
+    }, 
+    "1736843": {
+        "slide": [
+            "1737843", 
+            "25:Assignment for discussion"
+        ]
+    }, 
+    "1738300": {
+        "transcript": [
+            "1747580", 
+            "so anyway, I would want you to apply the Feedback Control strategy to the room temperature control problem. Discuss Feed Forward control and also Feedback control."
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1749404": {
+        "slide": [
+            "1752499", 
+            "26:Feed Forward + Feedback"
+        ]
+    }, 
+    "1749660": {
+        "transcript": [
+            "1750840", 
+            "In reality, however,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1752180": {
+        "transcript": [
+            "1760800", 
+            "What Alok said is true,  we do measure, we do implement both. Basically what happens is we use Feed Forward control"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1762440": {
+        "transcript": [
+            "1767780", 
+            "to obtain coarse control."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1768860": {
+        "transcript": [
+            "1773720", 
+            "Once you do that, use Feedback control, for fine tuning."
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1775080": {
+        "transcript": [
+            "1784640", 
+            "Is that ok? because you know that you raw material has changed substantially, so you know that the operating conditions have to be changed. so you would implement it right in the beginning."
+        ], 
+        "question": "FocusingInformation", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1785700": {
+        "transcript": [
+            "1786980", 
+            "So that is based on Feed Forward control."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1788160": {
+        "transcript": [
+            "1799160", 
+            "So, normally we do it, but you can also automate it.as a combination of Feed forward control and Feedback control. But we will come to that later towards the end of the course."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1800427": {
+        "slide": [
+            "1800538", 
+            "x"
+        ]
+    }, 
+    "1800654": {
+        "slide": [
+            "1804082", 
+            "27:Modelling and Scilab Solution"
+        ]
+    }, 
+    "1802460": {
+        "transcript": [
+            "1811000", 
+            "Now we will come to the last part of the lecture,namely modelling and mathematical solution "
+        ], 
+        "introduce": "Aims&Objectives"
+    }, 
+    "1811678": {
+        "slide": [
+            "1812678", 
+            "x"
+        ]
+    }, 
+    "1812080": {
+        "transcript": [
+            "1817500", 
+            "and then implementing that in Scilab."
+        ], 
+        "introduce": "Motivation"
+    }, 
+    "1818428": {
+        "slide": [
+            "1820333", 
+            "28:Modelling"
+        ]
+    }, 
+    "1819760": {
+        "transcript": [
+            "1820020", 
+            "ok."
+        ], 
+        "introduce": "Aims&Objectives"
+    }, 
+    "1821439": {
+        "slide": [
+            "1825106", 
+            "29:Modelling of Transients in Mixing Process"
+        ]
+    }, 
+    "1822200": {
+        "transcript": [
+            "1826600", 
+            "So, I want you to model transients in mixing process."
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1828280": {
+        "transcript": [
+            "1830020", 
+            "now transient become important,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1831360": {
+        "transcript": [
+            "1853680", 
+            "because ,we already mentioned ,things are happening, we are changing the valve or some change happens ,this is one time fluid present ,things are going to change, should we not worry about that? when I told Akanksha lets not worry about 10 seconds  so on i would have been correct had there been no transient."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1855320": {
+        "transcript": [
+            "1873920", 
+            "supposing it is instantaneous, so that is something we have to worry about, whether it is Feed Forward Control or Feed Back Control. In Feed Back Control it has lot more impact but we need to worry about Feed Forward Control also ,lets do this transient modelling and we will apply it to i.e. Feed Forward Control."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "185680": {
+        "transcript": [
+            "185740", 
+            "x"
+        ]
+    }, 
+    "186940": {
+        "transcript": [
+            "188220", 
+            "What is the control effort?"
+        ], 
+        "question": "FocusingInformation", 
+        "interaction": "Student Question"
+    }, 
+    "187107": {
+        "slide": [
+            "188107", 
+            "7:What is control Effort"
+        ]
+    }, 
+    "1875160": {
+        "transcript": [
+            "1878700", 
+            "ok ,of course I want to illustrate use of Scilab for this purpose."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1880600": {
+        "transcript": [
+            "1882300", 
+            "so,lets write down the equation."
+        ]
+    }, 
+    "1884240": {
+        "transcript": [
+            "1891440", 
+            "so this is accumulation term  pv(dx/dt)= pv(dx/dt)= w1x1 + w2x2 -(w1+w2)x "
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1889107": {
+        "slide": [
+            "1890083", 
+            "29:Modelling of Transients in Mixing Process"
+        ]
+    }, 
+    "1893154": {
+        "slide": [
+            "1894404", 
+            "29:Modelling of Transients in Mixing Process"
+        ]
+    }, 
+    "1894500": {
+        "transcript": [
+            "1897680", 
+            "so I can simplify this,bring all x2 on one side."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1899106": {
+        "slide": [
+            "1900416", 
+            "29:Modelling of Transients in Mixing Process"
+        ]
+    }, 
+    "1902140": {
+        "transcript": [
+            "1908320", 
+            "and then express it,  divide through out by w1/w2, so you can see what  \u03c4(Tau) is ?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "190480": {
+        "transcript": [
+            "205320", 
+            "Ok in case you are not familiar,  in case i did introduce in the last class,but I am not sure you retain this, control effort is the effort that you have to expend with, it costs money"
+        ], 
+        "answer": "control effort"
+    }, 
+    "1904900": {
+        "slide": [
+            "1905900", 
+            "29:Modelling of Transients in Mixing Process\t"
+        ]
+    }, 
+    "1910040": {
+        "transcript": [
+            "1914000", 
+            "so I would want  you to solve this equation for x."
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1914892": {
+        "slide": [
+            "1915809", 
+            "29:Modelling of Transients in Mixing Process\t"
+        ]
+    }, 
+    "1916160": {
+        "transcript": [
+            "1925740", 
+            "In-fact I give a hint, u shall use Integrating Factor,then you can do that.Please go ahead and get the expression for x."
+        ], 
+        "interaction": "Other"
+    }, 
+    "1927120": {
+        "transcript": [
+            "1928060", 
+            "I want you to solve this."
+        ], 
+        "interaction": "Other"
+    }, 
+    "1932900": {
+        "transcript": [
+            "1934780", 
+            "ok, of course what is Integrating Factor?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1938880": {
+        "transcript": [
+            "1939920", 
+            " e^t/\u03c4(Tau) .\n\n\n\n**"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1940687": {
+        "slide": [
+            "1941687", 
+            "29:Modelling of Transients in Mixing Process\t"
+        ]
+    }, 
+    "1941140": {
+        "transcript": [
+            "1941420", 
+            "ok."
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1942440": {
+        "transcript": [
+            "1946420", 
+            "so given the Integrating Factor, can you go through this and solve it."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1949166": {
+        "slide": [
+            "1952987", 
+            "30:Solution to the Mixing Process"
+        ]
+    }, 
+    "1950780": {
+        "transcript": [
+            "1952160", 
+            "So,actually you should have got all this stuff."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1956200": {
+        "transcript": [
+            "1958760", 
+            "Multiplying through out by Integrating Factor."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1959900": {
+        "transcript": [
+            "1964020", 
+            "Express it as told derivative,now integrated."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1967840": {
+        "transcript": [
+            "1968180", 
+            "ok."
+        ]
+    }, 
+    "1969720": {
+        "transcript": [
+            "1972500", 
+            "what is c here?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1974960": {
+        "transcript": [
+            "1980980", 
+            "c corresponds the problem statement( w1x1+ w2 x2 )/w1+w2."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1982160": {
+        "transcript": [
+            "1985960", 
+            "ok, but when  you integrate this,you get a k also."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1987880": {
+        "transcript": [
+            "1989940", 
+            "Express k in terms of the initial values."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "1991620": {
+        "transcript": [
+            "1991800", 
+            "ok"
+        ], 
+        "interaction": "Other"
+    }, 
+    "1995000": {
+        "transcript": [
+            "1998880", 
+            "I will come back to the remaining things, so have you found K?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "1999934": {
+        "slide": [
+            "2000934", 
+            "30:Solution to the Mixing Process"
+        ]
+    }, 
+    "2002540": {
+        "transcript": [
+            "2004800", 
+            "so,this is the expression you should have.Is that ok?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "2006940": {
+        "transcript": [
+            "2010320", 
+            "straightforward,something you have familiar with,but you can do that."
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "2011232": {
+        "slide": [
+            "2012232", 
+            "30:Solution to the Mixing Process"
+        ]
+    }, 
+    "2011560": {
+        "transcript": [
+            "2012180", 
+            "Are you with me?"
+        ], 
+        "interaction": "Other"
+    }, 
+    "2013420": {
+        "transcript": [
+            "2014920", 
+            "so,this is a expression for x."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2016440": {
+        "transcript": [
+            "2016800", 
+            "ok."
+        ], 
+        "interaction": "Other"
+    }, 
+    "2018523": {
+        "slide": [
+            "2021921", 
+            "31:Solution through Integrating Factor"
+        ]
+    }, 
+    "2020020": {
+        "transcript": [
+            "2030460", 
+            "This is the summary of the solution,which we obtained through Integrating Factor and  this variables we  have introduced  \u03c4(Tau),C."
+        ], 
+        "summary": "Preview"
+    }, 
+    "2031480": {
+        "transcript": [
+            "2032260", 
+            "Those are all given here."
+        ], 
+        "summary": "Preview"
+    }, 
+    "2034000": {
+        "transcript": [
+            "2034440", 
+            "Is that ok?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "2036920": {
+        "transcript": [
+            "2038540", 
+            "Let's now implement this through"
+        ], 
+        "summary": "Preview"
+    }, 
+    "2039070": {
+        "slide": [
+            "2042475", 
+            "32:Example: w2 from 500 to 400"
+        ]
+    }, 
+    "2039660": {
+        "transcript": [
+            "2045160", 
+            "You are given this problem namely, you have the system operating like this"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2046760": {
+        "transcript": [
+            "2052300", 
+            "ok, but w1changes to 500 to 400, everything  is constant,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2053860": {
+        "transcript": [
+            "2056640", 
+            "everything else is constant but w1"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2057800": {
+        "transcript": [
+            "2066960", 
+            "changes to 500 to 400 ,very simple thing,but  i will  show this w1 changes to 400kg/min suddenly"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2061261": {
+        "slide": [
+            "2061689", 
+            "32:Example: w2 from 500 to 400"
+        ]
+    }, 
+    "206360": {
+        "transcript": [
+            "208940", 
+            "What did we call this as,  we also called it as something else"
+        ], 
+        "answer": "control effort"
+    }, 
+    "2068140": {
+        "transcript": [
+            "2072780", 
+            "i know you are not happy,but we make such statements right?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "2073820": {
+        "transcript": [
+            "2081880", 
+            "In other words overall  scheme of things,this time is taken is very small,so will not worried about,will monitor it for may be"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2082920": {
+        "transcript": [
+            "2089000", 
+            "45 minutes i.e., whereas this taken around 15seconds or something. Is that ok?"
+        ], 
+        "question": "FocusingInformation", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2091540": {
+        "transcript": [
+            "2093820", 
+            "so, I have the Scilab code."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2092070": {
+        "slide": [
+            "2094272", 
+            "33:Scilab code 01-ex2pla.sce"
+        ]
+    }, 
+    "2094345": {
+        "slide": [
+            "2095333", 
+            "33:Scilab code 01-ex2pla.sce"
+        ]
+    }, 
+    "2095963": {
+        "slide": [
+            "2096927", 
+            "x"
+        ]
+    }, 
+    "2099107": {
+        "slide": [
+            "2100142", 
+            "x"
+        ]
+    }, 
+    "2099320": {
+        "transcript": [
+            "2100860", 
+            "Here is a code."
+        ], 
+        "answer": "code"
+    }, 
+    "2102060": {
+        "transcript": [
+            "2102980", 
+            "so, the reactor"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2103201": {
+        "slide": [
+            "2103999", 
+            "33:Scilab code 01-ex2pla.sce"
+        ]
+    }, 
+    "210560": {
+        "transcript": [
+            "211940", 
+            "Manipulated Variable ok"
+        ], 
+        "answer": "control effort"
+    }, 
+    "2108082": {
+        "slide": [
+            "2108844", 
+            "x"
+        ]
+    }, 
+    "2108500": {
+        "transcript": [
+            "2114640", 
+            "see this v is two,rho is 900 and so on...x of zero is given here"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2116200": {
+        "transcript": [
+            "2118080", 
+            "I should be looking at the previous slide."
+        ], 
+        "summary": "Preview"
+    }, 
+    "2118344": {
+        "slide": [
+            "2119190", 
+            "x"
+        ]
+    }, 
+    "2122280": {
+        "transcript": [
+            "2130320", 
+            "can you see the same values 900,500,200, x10,x20 all of them given, then x of zero"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2132142": {
+        "slide": [
+            "2133380", 
+            "x"
+        ]
+    }, 
+    "2132760": {
+        "transcript": [
+            "2137300", 
+            "when you have to see C(0),whereas C is given this, so you substitute all that."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "213700": {
+        "transcript": [
+            "216780", 
+            "So that is the flow rate of the pure stream"
+        ], 
+        "define": "control effort"
+    }, 
+    "2138900": {
+        "transcript": [
+            "2143760", 
+            "so, once you do that,then you integrate this and then plot it,so its not that difficult"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2145106": {
+        "slide": [
+            "2146487", 
+            "x"
+        ]
+    }, 
+    "2145200": {
+        "transcript": [
+            "2147660", 
+            "and the thing i ran it once."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2149860": {
+        "transcript": [
+            "2154200", 
+            "I have to find out where plot this,somewhere here."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2157760": {
+        "transcript": [
+            "2158400", 
+            null
+        ]
+    }, 
+    "2158332": {
+        "slide": [
+            "2159654", 
+            "x"
+        ]
+    }, 
+    "2160080": {
+        "transcript": [
+            "2162140", 
+            "so in fact I close this and run it again"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2161368": {
+        "slide": [
+            "2162987", 
+            "x"
+        ]
+    }, 
+    "2165640": {
+        "transcript": [
+            "2168200", 
+            "ok, so basically what happens is."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2169640": {
+        "transcript": [
+            "2179880", 
+            "w1 came from 500 to 400,and then composition corresponds to .4."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2181100": {
+        "transcript": [
+            "2188780", 
+            "as a result in the overall material that is coming out, the ratio of w2 has gone up."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "218420": {
+        "transcript": [
+            "226820", 
+            "That is the flow rate  of the pure stream, so the problem is that w1 is constant, x1 is varying and "
+        ], 
+        "define": "Problem"
+    }, 
+    "2186897": {
+        "slide": [
+            "2187897", 
+            "x"
+        ]
+    }, 
+    "2189860": {
+        "transcript": [
+            "2191380", 
+            "And its composition is higher."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2192640": {
+        "transcript": [
+            "2210460", 
+            "So as a result you would expect x2 go up,so it is working,so you can see that, it has taken about 10-11 seconds for it to reach  the final value. This Feed Forward, actually we are not doing anything we just saying that not even control just change some value."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2210535": {
+        "slide": [
+            "2211857", 
+            "x"
+        ]
+    }, 
+    "2211800": {
+        "transcript": [
+            "2215640", 
+            "ok, this is more to illustrate the transients"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2216820": {
+        "transcript": [
+            "2218720", 
+            null
+        ]
+    }, 
+    "2219840": {
+        "transcript": [
+            "2224020", 
+            "obtained you seen, more by solving differential equations."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2225500": {
+        "transcript": [
+            "2236220", 
+            "for which found the solution missing Integrating Factor,ok all Integrating Factor are not in the final solution the way it is implemented,because when you look at this equation."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2237520": {
+        "transcript": [
+            "2248180", 
+            "you don't have to worry about how I got this,ok the Scilab code just implement this , i want you to go through this and reproduce this   to become comfortable with Scilab."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2249340": {
+        "transcript": [
+            "2261620", 
+            "similarly I can ask this question like, ok its a same thing  that I plotted here, I can also ask another question supposing w2 changes to 100kg/min."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2263420": {
+        "transcript": [
+            "2263580", 
+            "ok"
+        ]
+    }, 
+    "2265340": {
+        "transcript": [
+            "2278160", 
+            "and simultaneously  X1 changes to 0.67, I can change both of them, initial values are given already you can't touch them now I change them and rerun, what do you change, the example in previous one "
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "228120": {
+        "transcript": [
+            "229640", 
+            "What do you want this x to be constant"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "2282800": {
+        "transcript": [
+            "2292680", 
+            "w1 changes to 400, initially i took it as 500 solved everything after sudden change, I change w1 to 400 rerun it I get this."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2293720": {
+        "transcript": [
+            "2293960", 
+            "Right?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "2295800": {
+        "transcript": [
+            "2296700", 
+            "so for this"
+        ]
+    }, 
+    "2299100": {
+        "transcript": [
+            "2303800", 
+            "i.e. w2 changes to 100  simultaneously  X1 changes to 0.6."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2305040": {
+        "transcript": [
+            "2305960", 
+            "so let me change this."
+        ], 
+        "interaction": "Other"
+    }, 
+    "230700": {
+        "transcript": [
+            "233200", 
+            "you achieve this by, changing the flow rate"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2307940": {
+        "transcript": [
+            "2308820", 
+            "w1"
+        ]
+    }, 
+    "2310620": {
+        "transcript": [
+            "2314100", 
+            "to w1(0) whereas w2 changes to"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2315540": {
+        "transcript": [
+            "2316300", 
+            "100kg."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2318240": {
+        "transcript": [
+            "2320000", 
+            "and then x1 changes to"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2321640": {
+        "transcript": [
+            "2323400", 
+            "what is a value? o.6"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "2327920": {
+        "transcript": [
+            "2328180", 
+            "ok"
+        ], 
+        "interaction": "Other"
+    }, 
+    "2329260": {
+        "transcript": [
+            "2330040", 
+            "you may close this"
+        ], 
+        "interaction": "Other"
+    }, 
+    "2335060": {
+        "transcript": [
+            "2346640", 
+            "ok, just gone to 0.625, lets see whether I got that , I got that 0.625"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "234780": {
+        "transcript": [
+            "236800", 
+            "so we say that, w2"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2348700": {
+        "transcript": [
+            "2362400", 
+            "before, I conclude there was a problem in the last class,I want to show that Scilab textbook companion once again, in terms of that somebody have suggested, somebody was sitting here \"sir change the first one\" namely the book itself."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2363680": {
+        "transcript": [
+            "2364600", 
+            "Right ? Who said that?"
+        ], 
+        "interaction": "Student Answer"
+    }, 
+    "2365620": {
+        "transcript": [
+            "2371860", 
+            "you said that,will see that,lets go to Scilab on GARUDA Cloud,then I have click here"
+        ], 
+        "interaction": "Other"
+    }, 
+    "2373400": {
+        "transcript": [
+            "2376760", 
+            "It requires some symbolic tool box, which has some problem."
+        ], 
+        "interaction": "Other"
+    }, 
+    "2377940": {
+        "transcript": [
+            "2380400", 
+            "Let me go to control theory of control systems."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "237980": {
+        "transcript": [
+            "239240", 
+            "Is the manipulated value"
+        ], 
+        "define": "w2", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2381760": {
+        "transcript": [
+            "2382460", 
+            "Select for book."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2383660": {
+        "transcript": [
+            "2387060", 
+            "so, let me select another control book , first one"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2388560": {
+        "transcript": [
+            "2394000", 
+            "Let me take i.e.Frequency Domain Analysis which going to study later."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2395480": {
+        "transcript": [
+            "2396660", 
+            "Select an example."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2398560": {
+        "transcript": [
+            "2400420", 
+            "Let me take bode plot  for example"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2402760": {
+        "transcript": [
+            "2408240", 
+            "then  I execute,is it gonna run, it is executing,it is actually computation is happening in"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "240360": {
+        "transcript": [
+            "243420", 
+            "Is that ok,  so we saw all of this in the last class"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "2410460": {
+        "transcript": [
+            "2412400", 
+            "GARUDA this problem is also has a problem"
+        ]
+    }, 
+    "2413860": {
+        "transcript": [
+            "2417920", 
+            "Parent has to be a subwin,ok will show something else"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2419940": {
+        "transcript": [
+            "2433040", 
+            "ok ,I  think will try it again tomorrow, I think plotting itself is not working today,yesterday only that didn't work but today the plotting itself didn't work. "
+        ], 
+        "interaction": "Other"
+    }, 
+    "2434220": {
+        "transcript": [
+            "2438280", 
+            "ok what we will do, just one second we are almost there"
+        ], 
+        "interaction": "Other"
+    }, 
+    "2438686": {
+        "slide": [
+            "2439686", 
+            null
+        ]
+    }, 
+    "2440240": {
+        "transcript": [
+            "2444260", 
+            "One thing I wanted to remember here is "
+        ], 
+        "interaction": "Other"
+    }, 
+    "2444265": {
+        "slide": [
+            "2447800", 
+            "37:Plot of x vs. t for 01-ex2p1b.sce"
+        ]
+    }, 
+    "244560": {
+        "transcript": [
+            "244660", 
+            null
+        ]
+    }, 
+    "2446260": {
+        "transcript": [
+            "2448640", 
+            "what we are doing here is..."
+        ], 
+        "interaction": "Other"
+    }, 
+    "2451080": {
+        "transcript": [
+            "2451760", 
+            "when the"
+        ], 
+        "interaction": "Other"
+    }, 
+    "2452960": {
+        "transcript": [
+            "2462360", 
+            "value changes simultaneously,all the values all the computation that we did in Scilab is based on what we had before"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "245740": {
+        "transcript": [
+            "258720", 
+            "Ok, now we have done, we have refreshed, lets go and apply, what is known as the Feed Forward control to this system. In fact we will discuss two strategies"
+        ], 
+        "introduce": "Aims&Objectives"
+    }, 
+    "2463680": {
+        "transcript": [
+            "2471860", 
+            "means before the changes happened and we modelled around that  point  right and result of this is plotted."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "2473287": {
+        "slide": [
+            "2476775", 
+            "38:What we learnt today"
+        ]
+    }, 
+    "2473420": {
+        "transcript": [
+            "2492000", 
+            "ok, so.. i think I will,I wanted to explain it further but we are running out of time,will discuss it in next class,so we learned Feed Forward and Feed Back control,pros and cons,we discussed dynamic simulation of mixing,mathematical formulation and Scilab code"
+        ], 
+        "interaction": "Other"
+    }, 
+    "2491251": {
+        "slide": [
+            "2492799", 
+            "Thanks"
+        ]
+    }, 
+    "2493280": {
+        "transcript": [
+            "2493560", 
+            "Thank you."
+        ], 
+        "interaction": "Other"
+    }, 
+    "249655": {
+        "slide": [
+            "250655", 
+            "8:Feed Forward Control"
+        ]
+    }, 
+    "259840": {
+        "transcript": [
+            "271280", 
+            "To achieve control here, mainly to maintain x at the required value, your first of strategy is called feed forward control, we will discuss that first"
+        ], 
+        "introduce": "Aims&Objectives"
+    }, 
+    "272360": {
+        "transcript": [
+            "276280", 
+            "So, we will first do the mass balance of the  Mixing Process."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "274850": {
+        "slide": [
+            "275850", 
+            "9:Mass Balance of the Mixing Process"
+        ]
+    }, 
+    "277980": {
+        "transcript": [
+            "279300", 
+            "Ok can you do that?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "280640": {
+        "transcript": [
+            "284240", 
+            "In fact i wanted to write down the Mass Balance Equation"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "285680": {
+        "transcript": [
+            "287000", 
+            "Because  there is nothing else."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "288080": {
+        "transcript": [
+            "290680", 
+            "And then find an expression for w2."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "292520": {
+        "transcript": [
+            "293960", 
+            "So you can take two minutes to do that."
+        ], 
+        "interaction": "Other"
+    }, 
+    "295860": {
+        "transcript": [
+            "303920", 
+            "Ok, at this time you should have got this two equations, some of you  haven't finished, you have seen this two expressions"
+        ], 
+        "interaction": "Other", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "305220": {
+        "transcript": [
+            "308180", 
+            "Equation finds the expression for w2"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "309800": {
+        "transcript": [
+            "313740", 
+            "Ok, it is actually a very simple expression, lets go through this"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "315000": {
+        "transcript": [
+            "317540", 
+            "Don't bother  x2 is given as 1 it is a Pure Stream"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "31680": {
+        "transcript": [
+            "43640", 
+            "Good morning! In today's class, we will discuss control strategies, the outline for todays class is as follows."
+        ], 
+        "summary": "Preview", 
+        "introduce": "Aims&Objectives"
+    }, 
+    "318800": {
+        "transcript": [
+            "319560", 
+            "So,  we applied"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "320600": {
+        "transcript": [
+            "322240", 
+            "Solve this, you should get this expression "
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "323940": {
+        "transcript": [
+            "342720", 
+            "So, this is the simple thing you are all  familiar with, now we will introduce the Control Problem, what is Control Problem? we want x to be at x bar, x bar is some specified value, so when i apply that iIcall the resulting w2 as w2 bar."
+        ], 
+        "define": "control problem, x", 
+        "question": "FocusingInformation", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "343860": {
+        "transcript": [
+            "351800", 
+            "w2 bar is the desired w2, so that x will be maintained at x bar."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "35297": {
+        "slide": [
+            "39441", 
+            "1:Lecture 2 Introduction to Control Strategies and Modelling for Control"
+        ]
+    }, 
+    "353020": {
+        "transcript": [
+            "362600", 
+            "Is that ok? so this is the expression, so now, this equation i just copy pasted  from the previous slide... final expression"
+        ], 
+        "question": "FocusingInformation", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "360990": {
+        "slide": [
+            "361990", 
+            "10:How to Use the Mass Balance"
+        ]
+    }, 
+    "363800": {
+        "transcript": [
+            "369820", 
+            "I want you to suggest a strategy to implement, as an Engineer how would you implement? you have this "
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "370860": {
+        "transcript": [
+            "379140", 
+            "system, you have given all kinds of tubes, pipes everything and you have given this Mathematical Expression, how would you implement?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "380900": {
+        "transcript": [
+            "382440", 
+            "What are the variables on the right hand side?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "386220": {
+        "transcript": [
+            "389080", 
+            " x1. what about w1?"
+        ], 
+        "question": "FocusingInformation", 
+        "answer": "x1"
+    }, 
+    "390880": {
+        "transcript": [
+            "397120", 
+            "w1 is given as Constant ok, so there is only one variable on the right hand side, which is x1"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "398360": {
+        "transcript": [
+            "399680", 
+            "and what is w2 bar?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "402380": {
+        "transcript": [
+            "404860", 
+            " What is a meaning of w2 bar?"
+        ]
+    }, 
+    "407480": {
+        "transcript": [
+            "409940", 
+            "you would want w2 to be at w2 bar"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "411780": {
+        "transcript": [
+            "414580", 
+            "So, how would you implement, i gave you all the things, whatever you want."
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "41576": {
+        "slide": [
+            "43040", 
+            "2:Outline"
+        ]
+    }, 
+    "417440": {
+        "transcript": [
+            "420100", 
+            "What will you do? you go to the plant, how will you do that?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "421180": {
+        "transcript": [
+            "423500", 
+            "Forget about anything, you do it manually, how will you do that?"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "426740": {
+        "transcript": [
+            "428120", 
+            "Measure  mixture x1"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "429380": {
+        "transcript": [
+            "433560", 
+            "and then substitute in this equation, it will tell you what w2 bar  is, and thats it."
+        ], 
+        "equation": "w2 bar= w1*(x bar-x1)/(1-x bar)", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "43040": {
+        "slide": [
+            "51442", 
+            "X"
+        ]
+    }, 
+    "434680": {
+        "transcript": [
+            "440260", 
+            "See it  and change it, ok instead we do this automatically, right."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "442160": {
+        "transcript": [
+            "442680", 
+            "This is how we do it."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "444360": {
+        "transcript": [
+            "445140", 
+            "you measure this,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "446480": {
+        "transcript": [
+            "451920", 
+            "you seen what is known as AT? AT stands for Analyser Transmitter."
+        ], 
+        "define": "AT", 
+        "question": "FocusingInformation"
+    }, 
+    "44880": {
+        "transcript": [
+            "62400", 
+            "First, we will recall different types of variables, so these are two new concepts that are going to be illustrated in today's  class. This will be illustrated with mixer problem mainly."
+        ], 
+        "summary": "Preview", 
+        "introduce": "Aims&Objectives", 
+        "explain": null
+    }, 
+    "452656": {
+        "slide": [
+            "453656", 
+            "11:Feed Forward Control of Mixing Process"
+        ]
+    }, 
+    "453000": {
+        "transcript": [
+            "454680", 
+            "Ok, this is the standard symbol."
+        ], 
+        "define": "AT"
+    }, 
+    "455780": {
+        "transcript": [
+            "461340", 
+            "Analyser Transmitter, and then it sends it to ...control."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "463060": {
+        "transcript": [
+            "474420", 
+            "Well this is a Analyser Control or you can call it Automatic Control, i don't know what this is called, but basically it is used... its Control Block."
+        ], 
+        "define": "AC", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "475700": {
+        "transcript": [
+            "478360", 
+            "It is a Control Block, it is used to control."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "479700": {
+        "transcript": [
+            "486520", 
+            "It is going to decide, where this control valve will be? should it be more open, should it be less open?"
+        ], 
+        "question": "FocusingInformation", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "488260": {
+        "transcript": [
+            "501820", 
+            "So this is Feed Forward Control, what we do we model the system exactly, for example how do  work goes into this AC, the model of the system that you got in the previous slide forced in to it."
+        ], 
+        "question": "FocusingInformation", 
+        "answer": "Feed forward control", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "491972": {
+        "slide": [
+            "492972", 
+            "12:Feed forward control"
+        ]
+    }, 
+    "503420": {
+        "transcript": [
+            "507100", 
+            "It measures input is x1 the output is"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "509340": {
+        "transcript": [
+            "509800", 
+            "w2."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "511120": {
+        "transcript": [
+            "516120", 
+            "Do not bother about w1 because w1 already is given us constant."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "518120": {
+        "transcript": [
+            "518640", 
+            "is that Ok?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "519740": {
+        "transcript": [
+            "522920", 
+            "That model goes into  this AC."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "524140": {
+        "transcript": [
+            "525400", 
+            "Model a system exactly,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "526955": {
+        "slide": [
+            "527955", 
+            "12:Feed forward control"
+        ]
+    }, 
+    "527260": {
+        "transcript": [
+            "530600", 
+            "and correct for any deviation immediately the moment."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "531620": {
+        "transcript": [
+            "535740", 
+            "This changes, this fellow will immediately say ok, input has changed."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "537460": {
+        "transcript": [
+            "540060", 
+            "w2 also has to change, control valve has to change."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "541840": {
+        "transcript": [
+            "542340", 
+            "Is that ok?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "545380": {
+        "transcript": [
+            "546500", 
+            "This is known as the Feed Forward Control."
+        ], 
+        "answer": "feed forwad control"
+    }, 
+    "548080": {
+        "transcript": [
+            "548300", 
+            "Ok."
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "549720": {
+        "transcript": [
+            "559660", 
+            "Why it is called Feed Forward, it will become clear once we discussed  FeedBack Control rather one we going to discuss, other strategies that we are going discuss."
+        ], 
+        "question": "FocusingInformation", 
+        "summary": "Preview"
+    }, 
+    "562560": {
+        "transcript": [
+            "562940", 
+            "now"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "564460": {
+        "transcript": [
+            "571020", 
+            "Ok, i said explain Room Temperature Control but i am going to leave this assignment, i will come to that shortly."
+        ], 
+        "interaction": "Other"
+    }, 
+    "564715": {
+        "slide": [
+            "565715", 
+            "12:Feed forward control"
+        ]
+    }, 
+    "572070": {
+        "slide": [
+            "574749", 
+            "13:Salient features of feed forward control"
+        ]
+    }, 
+    "573460": {
+        "transcript": [
+            "577900", 
+            "Ok, what are the salient features of Feed Forward control as per the Mixer Problem?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "579120": {
+        "transcript": [
+            "579180", 
+            null
+        ]
+    }, 
+    "581540": {
+        "transcript": [
+            "582500", 
+            "There is  a Disturbance,"
+        ], 
+        "answer": "mixer process"
+    }, 
+    "583880": {
+        "transcript": [
+            "585320", 
+            "namely x1 is changing"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "586288": {
+        "slide": [
+            "588106", 
+            "13:Salient Features of feed forward Control"
+        ]
+    }, 
+    "588580": {
+        "transcript": [
+            "599520", 
+            "The Disturbance is measured and its effect quantified in terms of expression for w2 bar that expression is put inside this box circle,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "600780": {
+        "transcript": [
+            "602300", 
+            "and immediate correction is made."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "604900": {
+        "transcript": [
+            "611400", 
+            "and in order for this to work, exact model is required. So suppose e.g you put a wrong model here,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "612600": {
+        "transcript": [
+            "616560", 
+            "you will end up getting wrong answer.is that ok?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "618160": {
+        "transcript": [
+            "623580", 
+            "Suppose you made a mistake, then there is a problem."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "625520": {
+        "transcript": [
+            "628680", 
+            "And the important the thing is only the disturbance variable needs to be measured."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "629940": {
+        "transcript": [
+            "631900", 
+            "Measure this concentration. "
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "633160": {
+        "transcript": [
+            "641300", 
+            "You measure that, assuming that your model is ok, it will give you right answer every time, the moment it changes."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "642680": {
+        "transcript": [
+            "645420", 
+            "This will also change,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "646720": {
+        "transcript": [
+            "654240", 
+            "w2 will also change and bring x back to the right value  almost immediately."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "64840": {
+        "transcript": [
+            "71040", 
+            "We will also give room temperature control as an assignment problem,  the same discussion."
+        ], 
+        "summary": "Preview"
+    }, 
+    "655340": {
+        "transcript": [
+            "655820", 
+            "Is that ok?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "657220": {
+        "transcript": [
+            "660720", 
+            "Ok there are shortcomings in Feed Forward applied to mixing."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "662400": {
+        "transcript": [
+            "667800", 
+            "What are the shortcuts, there could be a lag, ok so as a result what will happen?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "669480": {
+        "transcript": [
+            "675880", 
+            "you are saying,  the model is not exact so there are some problems, ok what else?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "677140": {
+        "transcript": [
+            "692700", 
+            "Flow rate,  so what  I am going to do,  I am going to repeat. whatever people ask and answer so the doubts get recorded  and everybody else can hear it also so suggestion is that, "
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "695120": {
+        "transcript": [
+            "702360", 
+            "when the valve is change, valve position is change, the flow rate  will not change immediately,  there are going to be delays."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "703940": {
+        "transcript": [
+            "711900", 
+            "ok, let me put it differently the valve  may not modelled properly, we think  the valve is doing something, it is doing something else."
+        ], 
+        "question": "FocusingInformation", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "713080": {
+        "transcript": [
+            "713660", 
+            "Anything else?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "716060": {
+        "transcript": [
+            "729380", 
+            "So we have got two inputs one is this model,  there is  problem, there is delay, model is not ok,  the mixer model is not ok,  the second one the valve model is not ok, what else you can think of?"
+        ], 
+        "question": "FocusingInformation", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "72200": {
+        "transcript": [
+            "81400", 
+            "So first section , recalling different types of variables, we have done this already, should be able to answer this"
+        ], 
+        "summary": "Preview"
+    }, 
+    "731100": {
+        "transcript": [
+            "735980", 
+            "It may not be perfectly mix, ok but that is "
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "737300": {
+        "transcript": [
+            "751100", 
+            "I don't know whether that a such serious problem, but it is possible, if x1 is greater than x this control strategy will not work, of course,  we assume that there is some rule for improvement."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "74255": {
+        "slide": [
+            "82916", 
+            "3:Recall:Different types of Variables"
+        ]
+    }, 
+    "752860": {
+        "transcript": [
+            "768940", 
+            "Either case we should have mechanism to remove some liquid  and replace it with something else, so we don't we  do will not accept  that as with in the boundaries of it. there are two other important things."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "770420": {
+        "transcript": [
+            "775620", 
+            " We will go to the next slide and we will see whether we can, we have addressed that."
+        ], 
+        "summary": "Preview", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "777200": {
+        "transcript": [
+            "781840", 
+            " First of all what if  w1 also varies, it is given the  w1 is a constant."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "783580": {
+        "transcript": [
+            "784600", 
+            "Can you accept that?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "786260": {
+        "transcript": [
+            "789760", 
+            "That is first question, may or may not?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "791360": {
+        "transcript": [
+            "792480", 
+            "So sometime,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "793560": {
+        "transcript": [
+            "796780", 
+            "it is helpful to be paranoid, this is one such situation."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "799420": {
+        "transcript": [
+            "803820", 
+            "what if some other phenomenon... are present but not modelled...there are some leak"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "805800": {
+        "transcript": [
+            "808300", 
+            "what if x changes,"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "810340": {
+        "transcript": [
+            "816280", 
+            "because of some mistakes we made, suppose the sensor itself is not ok whatever"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "818360": {
+        "transcript": [
+            "818760", 
+            "Ok"
+        ], 
+        "answer": "ok"
+    }, 
+    "820060": {
+        "transcript": [
+            "830660", 
+            "well,  forget about the x sensor but you know may be some  mistakes we made, it could be the model,  that we did not consider e.g the valve model."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "825229": {
+        "slide": [
+            "826229", 
+            "14:Shortcomings in FF Applied to Mixing"
+        ]
+    }, 
+    "832060": {
+        "transcript": [
+            "832360", 
+            "right?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "833400": {
+        "transcript": [
+            "833480", 
+            null
+        ]
+    }, 
+    "834680": {
+        "transcript": [
+            "849580", 
+            "If everything doesn't work there is a problem, so we will have to assume that certain things will work, so may be x we can  assume that is measured properly but we still have some modeling issues."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "84060": {
+        "transcript": [
+            "85720", 
+            "So lets recall the mixing process."
+        ], 
+        "summary": "Preview"
+    }, 
+    "84888": {
+        "slide": [
+            "87590", 
+            "4:Recall the Mixing Process"
+        ]
+    }, 
+    "852240": {
+        "transcript": [
+            "861700", 
+            "So the important thing in Feed Forward control first and foremost exact model is required,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "864380": {
+        "transcript": [
+            "868800", 
+            "and as the controlled variable is not measured,  what is if we are not measuring it?"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "87000": {
+        "transcript": [
+            "88720", 
+            "That involves mixing of two streams."
+        ], 
+        "define": "mixing process"
+    }, 
+    "870160": {
+        "transcript": [
+            "874320", 
+            "We only measuring the disturbance and implementing it directly... taking corrections immediately,"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "877320": {
+        "transcript": [
+            "886000", 
+            "will not know even if there are deviations and the effects  of other disturbances not considered, w1 changing, things like this, these are the problems."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "884096": {
+        "slide": [
+            "885096", 
+            "15:Shortcomings in Feed Forward Control General"
+        ]
+    }, 
+    "887920": {
+        "transcript": [
+            "905240", 
+            "Not only that for assumed that we measure all of them, then for every one of them we need exact model, if this varies like this,  i need to  adjust it,  if this varies like this i need to adjust it some other way and the final correction is a"
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "906380": {
+        "transcript": [
+            "909300", 
+            "sum total of all these individual corrections."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "910660": {
+        "transcript": [
+            "919520", 
+            "Ok thats what the Feed Forward control suggest, ok now i am going to ask you what are the good and bad things."
+        ], 
+        "question": "FocusingInformation", 
+        "explain": "Describing&Interpreting"
+    }, 
+    "914978": {
+        "slide": [
+            "915978", 
+            "16:Feed forward:good"
+        ]
+    }, 
+    "91840": {
+        "transcript": [
+            "104800", 
+            "You have a variable stream.That is fixed stream recall that it can have quantity is that vary,in that case the composition is varying which means we assumed flow rate is constant."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "921820": {
+        "transcript": [
+            "924860", 
+            "Feed Forward control is good because,"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "922888": {
+        "slide": [
+            "923888", 
+            "x"
+        ]
+    }, 
+    "926900": {
+        "transcript": [
+            "930140", 
+            "so can you select...I want an answer from this."
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "931960": {
+        "transcript": [
+            "936500", 
+            "Can you...1, 2, 3, 4...do it like this...so I will be able to see"
+        ], 
+        "question": "FocusingInformation", 
+        "interaction": "Other"
+    }, 
+    "941860": {
+        "transcript": [
+            "942280", 
+            "Ok."
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "944880": {
+        "transcript": [
+            "947040", 
+            "Some people have got three, some people have got four,"
+        ], 
+        "interaction": "Other"
+    }, 
+    "949640": {
+        "transcript": [
+            "953920", 
+            "some people have got two. can u discuss amongst yourselves."
+        ], 
+        "interaction": "Other"
+    }, 
+    "955460": {
+        "transcript": [
+            "965900", 
+            "Many people seem to have selected 4, those of you who are not convinced about it are,"
+        ], 
+        "interaction": "Other"
+    }, 
+    "968118": {
+        "slide": [
+            "969106", 
+            "x"
+        ]
+    }, 
+    "968120": {
+        "transcript": [
+            "970000", 
+            "you want me to explain, please"
+        ], 
+        "question": "FocusingInformation"
+    }, 
+    "971120": {
+        "transcript": [
+            "972080", 
+            "ask a question."
+        ], 
+        "interaction": "Other"
+    }, 
+    "973880": {
+        "transcript": [
+            "977080", 
+            "Some of you wanted 3 for example. Akanksha?"
+        ], 
+        "interaction": "Student Answer"
+    }, 
+    "978780": {
+        "transcript": [
+            "986580", 
+            " So,required model is easy to build in this case, but this question is about general setting, it could be a distillation column."
+        ], 
+        "explain": "Describing&Interpreting"
+    }, 
+    "988355": {
+        "slide": [
+            "989355", 
+            "x"
+        ]
+    }, 
+    "990460": {
+        "transcript": [
+            "996400", 
+            "What about the lag that ,yea so the, do you agree with that? required model is easy to build."
+        ], 
+        "question": "FocusingInformation", 
+        "answer": "easy"
+    }, 
+    "998580": {
+        "transcript": [
+            "1008640", 
+            "you are agreeing with the fact that there could be lag, in other words, the model that we thought was very easy, is not so easy"
+        ], 
+        "explain": "Describing&Interpreting"
+    }
+}

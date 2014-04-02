@@ -1,0 +1,566 @@
+<html><body><table border="1" style="width:800px">
+<tr><td>
+            "The moment disturbance comes, if this control strategy is to be implemented properly, the moment disturbance comes, it is picked up immediately, and corrective action done immediately."
+</td></tr>
+<tr><td>
+            "this is also not correct because it will take some time."
+</td></tr>
+<tr><td>
+            "so that is good because you make fast correction, immediately. ok, not immediately, 10 seconds later. ok. fine."
+</td></tr>
+<tr><td>
+            "So how do we achieve this, we achieve this through second  stream which comes through control valve, I refer to this as the control stream"
+</td></tr>
+<tr><td>
+            "ok, remember, in Feed Forward control"
+</td></tr>
+<tr><td>
+            "In Feed Forward control, we never measure this x."
+</td></tr>
+<tr><td>
+            "we assume that we measure it. of course, we can measure x also,"
+</td></tr>
+<tr><td>
+            "but it is not Feed Forward control"
+</td></tr>
+<tr><td>
+            "Apply the Feed Forward strategy to the room temperature control problem."
+</td></tr>
+<tr><td>
+            "If the room temperature controller has to be done, using Feed Forward control, how will you implement?"
+</td></tr>
+<tr><td>
+            "that were present in Feed Forward control."
+</td></tr>
+<tr><td>
+            "one is measure the control variables directly. whats your name?"
+</td></tr>
+<tr><td>
+            "Alok. so measure the control variable directly."
+</td></tr>
+<tr><td>
+            "and compensate for any deviation."
+</td></tr>
+<tr><td>
+            "It  has a valve, its Flow Rate can be changed"
+</td></tr>
+<tr><td>
+            "so measure x directly,"
+</td></tr>
+<tr><td>
+            "and make compensations. so what is meant by that?"
+</td></tr>
+<tr><td>
+            "Analyzer Transmitter and then put this into Analyzer Control, and then get this"
+</td></tr>
+<tr><td>
+            "if x is higher than required, decrease the flow rate."
+</td></tr>
+<tr><td>
+            "w2 old is nominal operating value."
+</td></tr>
+<tr><td>
+            "that is the control valve which is kept somewhere."
+</td></tr>
+<tr><td>
+            "x is the desired value."
+</td></tr>
+<tr><td>
+            "If k is positive, then this whole thing will be negative, and w2 will be reduced. w2,old is the nominal operating value."
+</td></tr>
+<tr><td>
+            " It is going to be lower than the previous value."
+</td></tr>
+<tr><td>
+            "So, it is important when you implement the control strategy, first check the sign of the,"
+</td></tr>
+<tr><td>
+            "so here you measure x and do this, notice that you are not measuring it."
+</td></tr>
+<tr><td>
+            "this x here,"
+</td></tr>
+<tr><td>
+            "Is that ok. So this is the Feed Back control strategy"
+</td></tr>
+<tr><td>
+            "unliKe the Feed Forward control, where the moment the disturbance comes, it is corrected immediately, with 10 seconds delay, for example. whereas here. "
+</td></tr>
+<tr><td>
+            "whereas here,"
+</td></tr>
+<tr><td>
+            "is actually has changed the concentration, of one term reactor."
+</td></tr>
+<tr><td>
+            "All the composition has changed. then you realize."
+</td></tr>
+<tr><td>
+            "So in that sense, it is lot slower."
+</td></tr>
+<tr><td>
+            "So we don't have to worry about the 10 second delay of the value. Half a minute of the value. This could be several minutes."
+</td></tr>
+<tr><td>
+            "The disturbance affects the system before corrective action "
+</td></tr>
+<tr><td>
+            "and the Feedback control requires measurement of the controlled variable, that is the output variable."
+</td></tr>
+<tr><td>
+            "you measure x here"
+</td></tr>
+<tr><td>
+            "that is the Feed Forward control did not require."
+</td></tr>
+<tr><td>
+            "and this is useful when exact knowledge is not available."
+</td></tr>
+<tr><td>
+            "Suppose w1 has also changed."
+</td></tr>
+<tr><td>
+            "so that would be reflected in x,"
+</td></tr>
+<tr><td>
+            "so you would have caught that."
+</td></tr>
+<tr><td>
+            "of course, there is a drawback,"
+</td></tr>
+<tr><td>
+            "We will see that. But inspite of the drawback, it is a popular control strategy."
+</td></tr>
+<tr><td>
+            "Ok, salient features again. Disturbance affects the system before corrective action. there are the two things."
+</td></tr>
+<tr><td>
+            "The slide looks the same so."
+</td></tr>
+<tr><td>
+            "ok, there are going to be some drawbacks of Feedback Control strategy also, one of them we have seen"
+</td></tr>
+<tr><td>
+            "namely, it is slower compared to Feed Forward. In Feed Forward, the moment disturbance comes, it is picked up and corrected. Here it has to go and change things, and then we realize, so this is one drawback, there are some other drawbacks also"
+</td></tr>
+<tr><td>
+            "which we will one of them is, if you are not careful,"
+</td></tr>
+<tr><td>
+            "You can destabilize the system, thats one of the problem that we will discuss. as we go along. In fact, Feedback Control is effective, because it can take care of"
+</td></tr>
+<tr><td>
+            "The modelling issues. because you don't have any models. The only model you have here, for example, is this equation"
+</td></tr>
+<tr><td>
+            "once you set the sign, then it should work. every time you monitor, is it higher lower, I make the corrections. so it is lot simpler to this compared to the detailed modeling required in the Feed Forward control. You need detailed modeling for every variable as well. you also need to know every phenomenon."
+</td></tr>
+<tr><td>
+            "all that is not required here."
+</td></tr>
+<tr><td>
+            "in that sense, it is lot easier to build."
+</td></tr>
+<tr><td>
+            "but there are drawback. It is slow, you can destabilize the system. there are issues like that. which we will discuss in this course."
+</td></tr>
+<tr><td>
+            "is the control variable right that is the objective of this putting a valve here"
+</td></tr>
+<tr><td>
+            "In reality, however,"
+</td></tr>
+<tr><td>
+            "What Alok said is true,  we do measure, we do implement both. Basically what happens is we use Feed Forward control"
+</td></tr>
+<tr><td>
+            "to obtain coarse control."
+</td></tr>
+<tr><td>
+            "Is that ok? because you know that you raw material has changed substantially, so you know that the operating conditions have to be changed. so you would implement it right in the beginning."
+</td></tr>
+<tr><td>
+            "So that is based on Feed Forward control."
+</td></tr>
+<tr><td>
+            "So, normally we do it, but you can also automate it.as a combination of Feed forward control and Feedback control. But we will come to that later towards the end of the course."
+</td></tr>
+<tr><td>
+            "now transient become important,"
+</td></tr>
+<tr><td>
+            "because ,we already mentioned ,things are happening, we are changing the valve or some change happens ,this is one time fluid present ,things are going to change, should we not worry about that? when I told Akanksha lets not worry about 10 seconds  so on i would have been correct had there been no transient."
+</td></tr>
+<tr><td>
+            "supposing it is instantaneous, so that is something we have to worry about, whether it is Feed Forward Control or Feed Back Control. In Feed Back Control it has lot more impact but we need to worry about Feed Forward Control also ,lets do this transient modelling and we will apply it to i.e. Feed Forward Control."
+</td></tr>
+<tr><td>
+            "ok ,of course I want to illustrate use of Scilab for this purpose."
+</td></tr>
+<tr><td>
+            "so this is accumulation term  pv(dx/dt)= pv(dx/dt)= w1x1 + w2x2 -(w1+w2)x "
+</td></tr>
+<tr><td>
+            "so I can simplify this,bring all x2 on one side."
+</td></tr>
+<tr><td>
+            "so given the Integrating Factor, can you go through this and solve it."
+</td></tr>
+<tr><td>
+            "So,actually you should have got all this stuff."
+</td></tr>
+<tr><td>
+            "Multiplying through out by Integrating Factor."
+</td></tr>
+<tr><td>
+            "Express it as told derivative,now integrated."
+</td></tr>
+<tr><td>
+            "c corresponds the problem statement( w1x1+ w2 x2 )/w1+w2."
+</td></tr>
+<tr><td>
+            "ok, but when  you integrate this,you get a k also."
+</td></tr>
+<tr><td>
+            "Express k in terms of the initial values."
+</td></tr>
+<tr><td>
+            "so,this is a expression for x."
+</td></tr>
+<tr><td>
+            "You are given this problem namely, you have the system operating like this"
+</td></tr>
+<tr><td>
+            "ok, but w1changes to 500 to 400, everything  is constant,"
+</td></tr>
+<tr><td>
+            "everything else is constant but w1"
+</td></tr>
+<tr><td>
+            "changes to 500 to 400 ,very simple thing,but  i will  show this w1 changes to 400kg/min suddenly"
+</td></tr>
+<tr><td>
+            "In other words overall  scheme of things,this time is taken is very small,so will not worried about,will monitor it for may be"
+</td></tr>
+<tr><td>
+            "45 minutes i.e., whereas this taken around 15seconds or something. Is that ok?"
+</td></tr>
+<tr><td>
+            "so, I have the Scilab code."
+</td></tr>
+<tr><td>
+            "so, the reactor"
+</td></tr>
+<tr><td>
+            "see this v is two,rho is 900 and so on...x of zero is given here"
+</td></tr>
+<tr><td>
+            "can you see the same values 900,500,200, x10,x20 all of them given, then x of zero"
+</td></tr>
+<tr><td>
+            "when you have to see C(0),whereas C is given this, so you substitute all that."
+</td></tr>
+<tr><td>
+            "so, once you do that,then you integrate this and then plot it,so its not that difficult"
+</td></tr>
+<tr><td>
+            "and the thing i ran it once."
+</td></tr>
+<tr><td>
+            "I have to find out where plot this,somewhere here."
+</td></tr>
+<tr><td>
+            "so in fact I close this and run it again"
+</td></tr>
+<tr><td>
+            "ok, so basically what happens is."
+</td></tr>
+<tr><td>
+            "w1 came from 500 to 400,and then composition corresponds to .4."
+</td></tr>
+<tr><td>
+            "as a result in the overall material that is coming out, the ratio of w2 has gone up."
+</td></tr>
+<tr><td>
+            "And its composition is higher."
+</td></tr>
+<tr><td>
+            "So as a result you would expect x2 go up,so it is working,so you can see that, it has taken about 10-11 seconds for it to reach  the final value. This Feed Forward, actually we are not doing anything we just saying that not even control just change some value."
+</td></tr>
+<tr><td>
+            "ok, this is more to illustrate the transients"
+</td></tr>
+<tr><td>
+            "obtained you seen, more by solving differential equations."
+</td></tr>
+<tr><td>
+            "for which found the solution missing Integrating Factor,ok all Integrating Factor are not in the final solution the way it is implemented,because when you look at this equation."
+</td></tr>
+<tr><td>
+            "you don't have to worry about how I got this,ok the Scilab code just implement this , i want you to go through this and reproduce this   to become comfortable with Scilab."
+</td></tr>
+<tr><td>
+            "and simultaneously  X1 changes to 0.67, I can change both of them, initial values are given already you can't touch them now I change them and rerun, what do you change, the example in previous one "
+</td></tr>
+<tr><td>
+            "w1 changes to 400, initially i took it as 500 solved everything after sudden change, I change w1 to 400 rerun it I get this."
+</td></tr>
+<tr><td>
+            "i.e. w2 changes to 100  simultaneously  X1 changes to 0.6."
+</td></tr>
+<tr><td>
+            "you achieve this by, changing the flow rate"
+</td></tr>
+<tr><td>
+            "to w1(0) whereas w2 changes to"
+</td></tr>
+<tr><td>
+            "100kg."
+</td></tr>
+<tr><td>
+            "and then x1 changes to"
+</td></tr>
+<tr><td>
+            "ok, just gone to 0.625, lets see whether I got that , I got that 0.625"
+</td></tr>
+<tr><td>
+            "so we say that, w2"
+</td></tr>
+<tr><td>
+            "Let me go to control theory of control systems."
+</td></tr>
+<tr><td>
+            "Is the manipulated value"
+</td></tr>
+<tr><td>
+            "Select for book."
+</td></tr>
+<tr><td>
+            "so, let me select another control book , first one"
+</td></tr>
+<tr><td>
+            "Let me take i.e.Frequency Domain Analysis which going to study later."
+</td></tr>
+<tr><td>
+            "Select an example."
+</td></tr>
+<tr><td>
+            "Let me take bode plot  for example"
+</td></tr>
+<tr><td>
+            "then  I execute,is it gonna run, it is executing,it is actually computation is happening in"
+</td></tr>
+<tr><td>
+            "Parent has to be a subwin,ok will show something else"
+</td></tr>
+<tr><td>
+            "value changes simultaneously,all the values all the computation that we did in Scilab is based on what we had before"
+</td></tr>
+<tr><td>
+            "means before the changes happened and we modelled around that  point  right and result of this is plotted."
+</td></tr>
+<tr><td>
+            "ok, so.. i think I will,I wanted to explain it further but we are running out of time,will discuss it in next class,so we learned Feed Forward and Feed Back control,pros and cons,we discussed dynamic simulation of mixing,mathematical formulation and Scilab code"
+</td></tr>
+<tr><td>
+            "So, we will first do the mass balance of the  Mixing Process."
+</td></tr>
+<tr><td>
+            "In fact i wanted to write down the Mass Balance Equation"
+</td></tr>
+<tr><td>
+            "Because  there is nothing else."
+</td></tr>
+<tr><td>
+            "And then find an expression for w2."
+</td></tr>
+<tr><td>
+            "Ok, at this time you should have got this two equations, some of you  haven't finished, you have seen this two expressions"
+</td></tr>
+<tr><td>
+            "Equation finds the expression for w2"
+</td></tr>
+<tr><td>
+            "Ok, it is actually a very simple expression, lets go through this"
+</td></tr>
+<tr><td>
+            "Don't bother  x2 is given as 1 it is a Pure Stream"
+</td></tr>
+<tr><td>
+            "So,  we applied"
+</td></tr>
+<tr><td>
+            "So, this is the simple thing you are all  familiar with, now we will introduce the Control Problem, what is Control Problem? we want x to be at x bar, x bar is some specified value, so when i apply that iIcall the resulting w2 as w2 bar."
+</td></tr>
+<tr><td>
+            "w2 bar is the desired w2, so that x will be maintained at x bar."
+</td></tr>
+<tr><td>
+            "Is that ok? so this is the expression, so now, this equation i just copy pasted  from the previous slide... final expression"
+</td></tr>
+<tr><td>
+            "w1 is given as Constant ok, so there is only one variable on the right hand side, which is x1"
+</td></tr>
+<tr><td>
+            "Forget about anything, you do it manually, how will you do that?"
+</td></tr>
+<tr><td>
+            "Measure  mixture x1"
+</td></tr>
+<tr><td>
+            "and then substitute in this equation, it will tell you what w2 bar  is, and thats it."
+</td></tr>
+<tr><td>
+            "See it  and change it, ok instead we do this automatically, right."
+</td></tr>
+<tr><td>
+            "This is how we do it."
+</td></tr>
+<tr><td>
+            "you measure this,"
+</td></tr>
+<tr><td>
+            "First, we will recall different types of variables, so these are two new concepts that are going to be illustrated in today's  class. This will be illustrated with mixer problem mainly."
+</td></tr>
+<tr><td>
+            "Analyser Transmitter, and then it sends it to ...control."
+</td></tr>
+<tr><td>
+            "Well this is a Analyser Control or you can call it Automatic Control, i don't know what this is called, but basically it is used... its Control Block."
+</td></tr>
+<tr><td>
+            "It is a Control Block, it is used to control."
+</td></tr>
+<tr><td>
+            "It is going to decide, where this control valve will be? should it be more open, should it be less open?"
+</td></tr>
+<tr><td>
+            "So this is Feed Forward Control, what we do we model the system exactly, for example how do  work goes into this AC, the model of the system that you got in the previous slide forced in to it."
+</td></tr>
+<tr><td>
+            "It measures input is x1 the output is"
+</td></tr>
+<tr><td>
+            "w2."
+</td></tr>
+<tr><td>
+            "Do not bother about w1 because w1 already is given us constant."
+</td></tr>
+<tr><td>
+            "That model goes into  this AC."
+</td></tr>
+<tr><td>
+            "Model a system exactly,"
+</td></tr>
+<tr><td>
+            "and correct for any deviation immediately the moment."
+</td></tr>
+<tr><td>
+            "This changes, this fellow will immediately say ok, input has changed."
+</td></tr>
+<tr><td>
+            "w2 also has to change, control valve has to change."
+</td></tr>
+<tr><td>
+            "now"
+</td></tr>
+<tr><td>
+            "Ok, i said explain Room Temperature Control but i am going to leave this assignment, i will come to that shortly."
+</td></tr>
+<tr><td>
+            "namely x1 is changing"
+</td></tr>
+<tr><td>
+            "The Disturbance is measured and its effect quantified in terms of expression for w2 bar that expression is put inside this box circle,"
+</td></tr>
+<tr><td>
+            "and immediate correction is made."
+</td></tr>
+<tr><td>
+            "and in order for this to work, exact model is required. So suppose e.g you put a wrong model here,"
+</td></tr>
+<tr><td>
+            "Suppose you made a mistake, then there is a problem."
+</td></tr>
+<tr><td>
+            "And the important the thing is only the disturbance variable needs to be measured."
+</td></tr>
+<tr><td>
+            "Measure this concentration. "
+</td></tr>
+<tr><td>
+            "This will also change,"
+</td></tr>
+<tr><td>
+            "w2 will also change and bring x back to the right value  almost immediately."
+</td></tr>
+<tr><td>
+            "Ok there are shortcomings in Feed Forward applied to mixing."
+</td></tr>
+<tr><td>
+            "when the valve is change, valve position is change, the flow rate  will not change immediately,  there are going to be delays."
+</td></tr>
+<tr><td>
+            "ok, let me put it differently the valve  may not modelled properly, we think  the valve is doing something, it is doing something else."
+</td></tr>
+<tr><td>
+            "So we have got two inputs one is this model,  there is  problem, there is delay, model is not ok,  the mixer model is not ok,  the second one the valve model is not ok, what else you can think of?"
+</td></tr>
+<tr><td>
+            "It may not be perfectly mix, ok but that is "
+</td></tr>
+<tr><td>
+            "I don't know whether that a such serious problem, but it is possible, if x1 is greater than x this control strategy will not work, of course,  we assume that there is some rule for improvement."
+</td></tr>
+<tr><td>
+            "Either case we should have mechanism to remove some liquid  and replace it with something else, so we don't we  do will not accept  that as with in the boundaries of it. there are two other important things."
+</td></tr>
+<tr><td>
+            " We will go to the next slide and we will see whether we can, we have addressed that."
+</td></tr>
+<tr><td>
+            " First of all what if  w1 also varies, it is given the  w1 is a constant."
+</td></tr>
+<tr><td>
+            "So sometime,"
+</td></tr>
+<tr><td>
+            "it is helpful to be paranoid, this is one such situation."
+</td></tr>
+<tr><td>
+            "what if some other phenomenon... are present but not modelled...there are some leak"
+</td></tr>
+<tr><td>
+            "well,  forget about the x sensor but you know may be some  mistakes we made, it could be the model,  that we did not consider e.g the valve model."
+</td></tr>
+<tr><td>
+            "If everything doesn't work there is a problem, so we will have to assume that certain things will work, so may be x we can  assume that is measured properly but we still have some modeling issues."
+</td></tr>
+<tr><td>
+            "So the important thing in Feed Forward control first and foremost exact model is required,"
+</td></tr>
+<tr><td>
+            "We only measuring the disturbance and implementing it directly... taking corrections immediately,"
+</td></tr>
+<tr><td>
+            "will not know even if there are deviations and the effects  of other disturbances not considered, w1 changing, things like this, these are the problems."
+</td></tr>
+<tr><td>
+            "Not only that for assumed that we measure all of them, then for every one of them we need exact model, if this varies like this,  i need to  adjust it,  if this varies like this i need to adjust it some other way and the final correction is a"
+</td></tr>
+<tr><td>
+            "sum total of all these individual corrections."
+</td></tr>
+<tr><td>
+            "Ok thats what the Feed Forward control suggest, ok now i am going to ask you what are the good and bad things."
+</td></tr>
+<tr><td>
+            "You have a variable stream.That is fixed stream recall that it can have quantity is that vary,in that case the composition is varying which means we assumed flow rate is constant."
+</td></tr>
+<tr><td>
+            "you want me to explain, please"
+</td></tr>
+<tr><td>
+            "you are agreeing with the fact that there could be lag, in other words, the model that we thought was very easy, is not so easy"
+</td></tr>
+</body></html>
